@@ -3,4 +3,8 @@ public class xyz {
    {
     System.out.println("Welcome to Git branch");;
    } 
+   void fun()
+   {
+    System.out.println("hi");
+   }
 }
